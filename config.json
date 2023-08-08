@@ -1,0 +1,19 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/codingthunder",
+        "prod_uri":"mysql://root:@localhost/codingthunder",
+        "fb_url":"https://facebook.com/codingthunder",
+        "tw_url":"https://twitter.com/codingthunder",
+        "gh_url":"https://github.com/codingthunder",
+        "blog_name":"Jivani Industries Private Limited",
+        "tag_line":"A Blog liked By The programmers",
+        "about_text": "Hello I`M Darshit Jivani And I am Learning About Engineering",
+        "no_of_posts": 1,
+        "admin_user": "darshit",
+        "admin_password": "jivani2392",
+        "upload_location": "E:\\Flask API\\static"
+    }
+
+}
